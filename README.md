@@ -3,6 +3,7 @@
 # Tecnologias utilizadas
 
 * React-navigator
+* Javascript
 * Expo
 * Yarn
 
