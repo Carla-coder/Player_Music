@@ -113,7 +113,7 @@ npm run web [ comando para inicializar o navegador (Starting Metro Bumbler)]
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Carla-coder](https://www.github.com/Carla-coder)
 
 ## Instituição de Ensino
 
